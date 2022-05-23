@@ -1,1 +1,3 @@
-# Algoritimo_Visualg
+# Algoritimo Visualg
+
+Visualg - Exercícios de Logica de Programação
